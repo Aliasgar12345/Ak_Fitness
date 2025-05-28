@@ -10,6 +10,9 @@ The AK Fitness website is designed to provide basic information about fitness, e
 
 ### 🚀 Live Demo
 👉 [Visit Live Website](https://aliasgar12345.github.io/Ak_Fitness/)
+![Screenshot (30)](https://github.com/user-attachments/assets/95a86bbc-3902-49ee-a0e9-07054e714da5)
+
+
 
 ---
 
